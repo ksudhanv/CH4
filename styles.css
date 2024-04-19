@@ -1,0 +1,33 @@
+.wrapper{
+    height: 30vh;
+    background-image: linear-gradient(to right, white , aqua);
+    border-color: black;
+    border-style: solid;
+}
+.circle{
+    position: relative;
+    top: 90px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 200px;
+    background-color: white;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+.beneath-banner {
+    margin-top: 90px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+  }
+  .text-box{
+    margin-top: 30px;
+    border-style: solid;
+    border-color: black;
+    width: 70vw;
+    height: 50vh;
+  }
